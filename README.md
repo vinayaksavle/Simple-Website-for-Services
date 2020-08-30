@@ -1,1 +1,1 @@
-Website to provide services using HTML + CSS + Javascript
+Static Website to provide services using HTML + CSS + Javascript
