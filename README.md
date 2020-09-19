@@ -1,6 +1,6 @@
 Static Website to provide services using HTML + CSS + Javascript
 
-<h1 align="center"><a href="https://codewithvvs.netlify.app/" target="_blank">CLICK HERE TO VISIT</a></h1>
+<h1 align="center"><a href="https://vinayaksavle.github.io/react-tutorial/" target="_blank">CLICK HERE TO VISIT</a></h1>
 <p align="center">
 Here's Preview <br/><br/>
   <p align="center">Web Preview</p> <br/>
